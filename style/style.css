@@ -1,1 +1,10 @@
-body { background-color: pink; }
+body {
+    background-color: #f2f7f5;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    color: #4c8c7c;
+}
